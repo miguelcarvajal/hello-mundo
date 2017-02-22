@@ -1,6 +1,6 @@
 ## Bienvenidos
 
-Este es un ejemplo de Miguel Carvajal
+Este es un ejemplo de Miguel Carvajal, prueba nueva
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
